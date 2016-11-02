@@ -1,5 +1,5 @@
-# Apache-Tomcat-Wake-On-Lan-WOL
-Apache Tomcat Wake On Lan (WOL)
+# WakeOnLanWebDesktopServer
+Wake On Lan (WOL) Web (WOLW) Server - Abandoned
 
 # STATUS
 Abandoned. This project is for example only. I built this quickly, quite a 
