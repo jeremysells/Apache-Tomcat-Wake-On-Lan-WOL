@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Copyright (c) 2011 Jeremy Sells
+    See the file LICENSE.txt for copying permission.
+
+    Document   : AccessList.xml
+    Created on : 5 December 2010, 11:02 PM
+    Author     : Jeremy Sells
+    Description:
+        Purpose of the document follows.
+-->
+
+<users>
+    <user name="user" password="apassword"/>
+    <user name="user_b" password="apassword2"/>
+</users>

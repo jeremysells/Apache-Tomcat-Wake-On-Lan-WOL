@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Copyright (c) 2011 Jeremy Sells
+    See the file LICENSE.txt for copying permission.
+    
+    Document   : pcControlList.xml
+    Created on : 5 December 2010, 6:24 PM
+    Author     : Jeremy Sells
+    Description:
+        Holds lists of computers to wol
+-->
+
+<pcList>
+    <apc nickName="PC_A (-) IP" mac="11-11-22-22-33-33" ip="192.168.1.3"/>
+    <apc nickName="PC_B (-) IP" mac="11-11-22-22-33-44" ip="192.168.1.5"/>
+    <apc nickName="PC_C (-) IP" mac="11-11-22-22-33-55" ip="192.168.1.10"/>
+</pcList>
